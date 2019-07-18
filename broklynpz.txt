@@ -1,1 +1,2 @@
 They also make very good pizza. 
+Now will use the git push command. to sync it with remote repo.
